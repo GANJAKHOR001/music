@@ -49,7 +49,7 @@ SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ABOUT_NIGHT_SQUAD")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+aB3TQoPJ2dBjZGU1")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
-AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", True))
+AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
 ASSISTANT_LEAVE_TIME = int(getenv("ASSISTANT_LEAVE_TIME",  5400))
 
 
@@ -90,9 +90,9 @@ autoclean = []
 confirmer = {}
 file_cache: dict[str, float] = {}
 
-START_IMG_URL = ["https://te.legra.ph/file/5fd13f2cc0d03bce9f7f2.jpg",
-                 "https://te.legra.ph/file/c15d01b3e6b40ea141dc9.jpg",
-                 "https://te.legra.ph/file/5fd13f2cc0d03bce9f7f2.jpg"]
+START_IMG_URL = ["https://graph.org/file/be555edf7eb977a9b951b-0672fc8b412dd7da43.jpg,
+                 "https://graph.org/file/e551452861cd4dc08c3a8-b3cb4f200be8777a3c.jpg",
+                 "https://graph.org/file/b1dade031538c0711c16e-72131103fac15976a3.jpg"]
     
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://telegra.ph/file/87f680aead03443f291b0.jpg"
