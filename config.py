@@ -90,7 +90,7 @@ autoclean = []
 confirmer = {}
 file_cache: dict[str, float] = {}
 
-START_IMG_URL = ["https://graph.org/file/be555edf7eb977a9b951b-0672fc8b412dd7da43.jpg,
+START_IMG_URL = ["https://graph.org/file/be555edf7eb977a9b951b-0672fc8b412dd7da43.jpg",
                  "https://graph.org/file/be555edf7eb977a9b951b-0672fc8b412dd7da43.jpg",
                  "https://graph.org/file/be555edf7eb977a9b951b-0672fc8b412dd7da43.jpg"]
     
