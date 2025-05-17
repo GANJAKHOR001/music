@@ -35,10 +35,10 @@ Introducing a **robust API** for Telegram Music Bots that allows **audio & video
 
 | 💼 Plan        | ⚡ Rate Limit         | ♾️ Usage     | 💵 Price (INR/month) | 🔑 Access Type   |
 |---------------|-----------------------|-------------|----------------------|------------------|
-| 🟢 **Lite**      | 49 requests/hour      | Unlimited   | ₹49                  | API_KEY          |
-| 🔵 **Basic**     | 149 requests/hour     | Unlimited   | ₹149                 | API_KEY          |
-| 🟣 **Pro**       | 299 requests/hour     | Unlimited   | ₹299                 | API_KEY          |
-| 🔴 **Unlimited** | 5000 requests/hour    | Unlimited   | ₹399                 | IP (Single IP)   |
+| 🟢 **Lite**      | 49 requests/hour      | Unlimited   | ₹79                  | API_KEY          |
+| 🔵 **Basic**     | 149 requests/hour     | Unlimited   | ₹199                 | API_KEY          |
+| 🟣 **Pro**       | 299 requests/hour     | Unlimited   | ₹349                 | API_KEY          |
+| 🔴 **Unlimited** | 5000 requests/hour    | Unlimited   | ₹439                 | IP (Single IP)   |
 
 > **Note:** API keys are unique to each user. The Unlimited plan is tied to a single IP address.
 
